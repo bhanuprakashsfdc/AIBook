@@ -1,0 +1,6 @@
+{
+  "name": "Claude Code Resource Hub",
+  "description": "Production-ready resource management portal for Claude Code skills, projects, prompts, and repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
